@@ -1,0 +1,4 @@
+1. W głównym folderze (wasm-game-of-life) uruchomić komendę "wasm-pack build"
+2. W folderze www uruchomić komendę "npm install" by pobrać wszystkie potrzebne paczki
+3. W folderze www uruchomić komendę "npm run start" by odpalić serwer
+4. Link do odpalonego serwera: http://localhost:8080/
